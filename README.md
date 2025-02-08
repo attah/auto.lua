@@ -3,6 +3,8 @@
 
 You probably need to install:
 ```
+lua
+libubus-lua
 libubox-lua
 curl
 ```
